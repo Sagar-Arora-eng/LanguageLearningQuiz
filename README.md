@@ -12,7 +12,7 @@
 
 -   A list of questions is asked with options of which user has to select best option of his ability.
 -   After the test, a page contained details of the test including how much question attempted, pointes earned, qualified or not are shown.
--   A list of all user with their score is shown start from user with highest marks
+-   A list of all user with their score, attempts, points earned and result is shown .
 -   A restart button was there so that user can again give the test.
 
 ## Getting Started
