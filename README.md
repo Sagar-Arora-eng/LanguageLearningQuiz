@@ -1,6 +1,4 @@
-# LanguageLearningQuiz
-
-# Language Learning MERN Application
+# Language Learning Quiz MERN Application
 # Checkout-[https://cozy-florentine-ad6016.netlify.app/]
 
 ### A Language Learning Quiz made using MERN stack.
@@ -26,6 +24,7 @@
     ```bash
     npm install
     ```
+1. create .env file for backend as well as frontend with details of port no., mongodb url(for .env of backend) and backend url (for .env of frontend).
 
 1. Run the project
 
